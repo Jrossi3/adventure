@@ -158,7 +158,7 @@ while quitHelp:
                 print("  help")
                 print("  show exits")
                 print("  remove exits")
-                print("  drop")
+                print("  drop ...")
                 count = 0
             else:
                 print("Please enter a valid direction or command like 'get'")
