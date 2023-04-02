@@ -150,15 +150,15 @@ while quitHelp:
                 count = 0
             elif direction.strip() == "help":
                 print("You can run the following commands:")
-                print("  go + [direction]: This allows the user to move in the designated direction.")
-                print("  get + [item]: This allows the user to pick up an item from a room if it is available and add it to their inventory.")
-                print("  inventory: This shows the user's current inventory.")
-                print("  look: This shows the user what room they are in with the exit drections.")
-                print("  show exits: This shows the exit destinations.")
-                print("  remove exits: This removes the exit destinations.")
-                print("  drop: This drops an item from your inventory and adds it to the room you are in.")
-                print("  quit: This quits the user out of the program.")
-                print("  help: This shows the commands you can run on this.")
+                print("  go ...")
+                print("  get ...")
+                print("  inventory")
+                print("  look")
+                print("  quit")
+                print("  help")
+                print("  show exits")
+                print("  remove exits")
+                print("  drop")
                 count = 0
             else:
                 print("Please enter a valid direction or command like 'get'")
