@@ -1,5 +1,5 @@
 # Jason Rossi, Jrossi3
-# the URL of your public GitHub repo
+# https://github.com/Jrossi3/adventure
 # I spent approximately 7 hours on this project.
 # I tested my code through running the basic commands initially in the idle and then in the terminal. I would edit on idle, but then switched over to visual studio code and running on the terminal as that was the way it was going to be tested. I tested with any possible commands that could have been put in such as wrong directions like "go find" as this would not work. I tested to ensure the directions had to be in the exits to ensure the user could get between rooms properly. I did a lot of testing with go and get to ensure if they were to write "get " or "go ", I could have this covered with a response.
 # There were no bugs I could not resolve. I managed to resolve every error that I encountered. 
